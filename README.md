@@ -1,2 +1,2 @@
 # MaskDetection
-# This project to detect if image with wear mask or not 
+# This project to detect if image wear mask or not 
